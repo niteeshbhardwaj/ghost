@@ -1,0 +1,32 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Nightbird.ttf);
+}
+body{
+    background-color:black;
+    font-family:myFirstFont;
+}
+h1{
+    color:white;
+
+    font-size:60px ;
+    TEXT-ALIGN:CENTER;
+    font-family:myFirstFont;
+}
+p{
+    color:white;
+    font-size:20px;
+}
+ol{
+    color:white;
+    font-size:20px;
+}
+img {
+border-radius: 12px;
+}
+H4{
+    COLOr:white;
+    
+    FONT-SIZE:25PX;
+    TEXT-ALIGN:CENTER
+}
